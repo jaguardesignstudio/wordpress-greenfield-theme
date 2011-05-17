@@ -1,0 +1,16 @@
+body {}
+
+#wrapper {}
+
+/* Header */
+#header {}
+#header #title-bar {}
+#header #title-bar #description {}
+#header #header-widgets-box {}
+
+/* Content */
+#content {}
+
+/* Sidebar */
+#sidebar {}
+#sidebar .widget {}
